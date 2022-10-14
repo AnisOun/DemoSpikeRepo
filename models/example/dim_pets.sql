@@ -16,6 +16,7 @@ select *
 from pets
 
 
-
+select *
+from pets
 
 
