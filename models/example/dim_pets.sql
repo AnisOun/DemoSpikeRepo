@@ -12,11 +12,10 @@ NAME as Name,MOBILE as Mobile
 from DEV_METAMART.METAMART_DATA.DEMOTEST )
 
 
-select *
-from pets
+select * from pets
 
 
-select *
-from pets
+
+
 
 
